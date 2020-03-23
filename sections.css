@@ -1,0 +1,61 @@
+html,body
+{
+    background-color: gray;
+    height: 100%;
+}
+
+
+.main
+{
+    height: 100%;
+}
+
+.heart-div
+{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    /* height: 100%; */
+    top: 50%;
+}
+
+.message-div
+{
+    color: white;
+    font-family: "Dancing Script";
+    padding: 20px;
+}
+
+.button-div
+{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.button
+{
+    /* margin-left: 20%; */
+    margin-top: 48px;
+    margin-bottom: 48px;
+    float: left;
+    height: 50px;
+    width: auto;
+    border: solid white;
+    background: pink;
+    outline: 0;
+    font-size: 20px;
+    font-family: "Dancing Script";
+    color: black;
+}
+#heart-button
+{
+    /* margin-left: 10%; */
+    float: right;
+    height: auto;
+    border: none;
+    background: none;
+    font-size: 100px;
+    color: rgb(255, 104, 104);
+    outline: 0;
+
+}

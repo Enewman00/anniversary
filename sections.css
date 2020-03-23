@@ -35,8 +35,8 @@ html,body
 .button
 {
     /* margin-left: 20%; */
-    margin-top: 48px;
-    margin-bottom: 48px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: left;
     height: 50px;
     width: auto;
@@ -54,7 +54,7 @@ html,body
     height: auto;
     border: none;
     background: none;
-    font-size: 100px;
+    font-size: 50px;
     color: rgb(255, 104, 104);
     outline: 0;
 
